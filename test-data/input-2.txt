@@ -1,0 +1,4 @@
+# Test 2: Alternating shots (1st from Primary, 2nd from Secondary)
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

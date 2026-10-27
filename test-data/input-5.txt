@@ -1,0 +1,3 @@
+# Test 5: Both stores are empty, nothing to fire.
+GT4500,0,0.0,0,0.0
+TORPEDO,SINGLE
