@@ -1,0 +1,3 @@
+# Test 7: ALL mode, but only Secondary has torpedoes. At least one shot is successful, so it returns SUCCESS.
+GT4500,0,0.0,10,0.0
+TORPEDO,ALL
