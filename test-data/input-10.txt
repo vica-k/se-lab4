@@ -1,0 +1,4 @@
+# Test 10: Secondary is empty, Primary has only 1 torpedo. Second shot fails completely.
+GT4500,1,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
